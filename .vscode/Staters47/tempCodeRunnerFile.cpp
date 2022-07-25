@@ -25,10 +25,9 @@ int main(){
     int counter=0;
     f(i,n) if(v[i]==1) counter++;
     
-    // if(counter==0) cout<<counter;
+    if(counter==0) cout<<counter;
     
-    // else cout<<abs(counter-2);
-    fauto(i,v)cout<<i;
+    else cout<<abs(counter-2);
     
     
 
